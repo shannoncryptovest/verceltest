@@ -1,0 +1,14 @@
+{
+  "name": "verceltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/shannoncryptovest/verceltest.git",
+  "author": "shannoncryptovest <shannoncryptovest@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
